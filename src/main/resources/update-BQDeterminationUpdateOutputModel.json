@@ -1,0 +1,11 @@
+{
+  "determinationInstanceRecord" : {
+    "customerAgreementInstanceReference" : "738900",
+    "customerAgreement" : "customerAgreement",
+    "caseDeterminationWorkTaskResult" : "caseDeterminationWorkTaskResult",
+    "caseDeterminationWorkProduct" : "caseDeterminationWorkProduct"
+  },
+  "updateResponseRecord" : {},
+  "determinationUpdateActionTaskReference" : "DUATR732282",
+  "determinationUpdateActionTaskRecord" : {}
+}

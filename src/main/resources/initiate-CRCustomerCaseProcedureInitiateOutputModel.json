@@ -1,0 +1,10 @@
+{
+  "customerCaseProcedureInstanceStatus" : "customerCaseProcedureInstanceStatus",
+  "customerCaseProcedureInitiateActionReference" : "CCPIAR740866",
+  "customerCaseProcedureInitiateActionRecord" : {},
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule"
+  },
+  "customerCaseProcedureInstanceReference" : "CCPIR752975"
+}

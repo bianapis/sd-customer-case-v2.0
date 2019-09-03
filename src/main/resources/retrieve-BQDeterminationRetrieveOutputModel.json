@@ -1,0 +1,38 @@
+{
+  "determinationRetrieveActionTaskReference" : "DRATR721102",
+  "determinationInstanceRecord" : {
+    "customerAgreementInstanceReference" : "764233",
+    "customerAgreement" : "customerAgreement",
+    "caseDeterminationWorkTaskResult" : "caseDeterminationWorkTaskResult",
+    "caseDeterminationWorkProduct" : "caseDeterminationWorkProduct"
+  },
+  "determinationRetrieveActionResponse" : "determinationRetrieveActionResponse",
+  "determinationInstanceAnalysis" : {
+    "determinationInstanceAnalysisRecord" : {},
+    "determinationInstanceAnalysisReportType" : "determinationInstanceAnalysisReportType",
+    "determinationInstanceAnalysisReport" : {},
+    "determinationInstanceAnalysisParameters" : "determinationInstanceAnalysisParameters"
+  },
+  "analysisInstanceRecord" : {
+    "caseAnalysisWorkTaskResult" : "caseAnalysisWorkTaskResult"
+  },
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "767897",
+    "employeeBusinessUnitReference" : "783318",
+    "customerCaseType" : "customerCaseType",
+    "customerContactRecordReference" : "751640",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+    "customerReference" : "724666",
+    "productTransactionReference" : "714115",
+    "caseLocation" : "caseLocation",
+    "productTransactionRecord" : {}
+  },
+  "determinationInstanceReport" : {
+    "determinationInstanceReportType" : "determinationInstanceReportType",
+    "determinationInstanceReportParameters" : "determinationInstanceReportParameters",
+    "determinationInstanceReportRecord" : {},
+    "determinationInstanceReport" : {}
+  },
+  "determinationRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,17 @@
+{
+  "customerCaseProcedureUpdateActionTaskRecord" : {},
+  "customerCaseProcedureUpdateActionTaskReference" : "CCPUATR744974",
+  "updateResponseRecord" : {},
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "749189",
+    "employeeBusinessUnitReference" : "723252",
+    "customerCaseType" : "customerCaseType",
+    "customerContactRecordReference" : "770502",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+    "customerReference" : "735212",
+    "productTransactionReference" : "761429",
+    "caseLocation" : "caseLocation",
+    "productTransactionRecord" : {}
+  }
+}

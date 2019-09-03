@@ -1,0 +1,34 @@
+{
+  "analysisInstanceAnalysis" : {
+    "analysisInstanceAnalysisRecord" : {},
+    "analysisInstanceAnalysisReport" : {},
+    "analysisInstanceAnalysisReportType" : "analysisInstanceAnalysisReportType",
+    "analysisInstanceAnalysisParameters" : "analysisInstanceAnalysisParameters"
+  },
+  "analysisRetrieveActionTaskRecord" : {},
+  "analysisInstanceReport" : {
+    "analysisInstanceReportParameters" : "analysisInstanceReportParameters",
+    "analysisInstanceReport" : {},
+    "analysisInstanceReportRecord" : {},
+    "analysisInstanceReportType" : "analysisInstanceReportType"
+  },
+  "analysisInstanceRecord" : {
+    "caseAnalysisWorkProduct" : "caseAnalysisWorkProduct",
+    "customerContactRecord" : {},
+    "caseAnalysisWorkTaskResult" : "caseAnalysisWorkTaskResult"
+  },
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "745339",
+    "employeeBusinessUnitReference" : "751636",
+    "customerCaseType" : "customerCaseType",
+    "customerContactRecordReference" : "733891",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+    "customerReference" : "753252",
+    "productTransactionReference" : "797525",
+    "caseLocation" : "caseLocation",
+    "productTransactionRecord" : {}
+  },
+  "analysisRetrieveActionTaskReference" : "ARATR793806",
+  "analysisRetrieveActionResponse" : "analysisRetrieveActionResponse"
+}

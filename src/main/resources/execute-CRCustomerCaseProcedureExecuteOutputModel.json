@@ -1,0 +1,10 @@
+{
+  "executeRecordReference" : "ERR715913",
+  "executeResponseRecord" : {},
+  "customerCaseProcedureExecuteActionTaskReference" : "CCPEATR703628",
+  "customerCaseProcedureExecuteActionTaskRecord" : {},
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule"
+  }
+}

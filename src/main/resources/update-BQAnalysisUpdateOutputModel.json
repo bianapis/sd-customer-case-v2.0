@@ -1,0 +1,10 @@
+{
+  "analysisUpdateActionTaskReference" : "AUATR756631",
+  "analysisUpdateActionTaskRecord" : {},
+  "analysisInstanceRecord" : {
+    "caseAnalysisWorkProduct" : "caseAnalysisWorkProduct",
+    "customerContactRecord" : {},
+    "caseAnalysisWorkTaskResult" : "caseAnalysisWorkTaskResult"
+  },
+  "updateResponseRecord" : {}
+}

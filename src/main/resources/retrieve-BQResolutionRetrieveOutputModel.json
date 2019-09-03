@@ -1,0 +1,43 @@
+{
+  "resolutionRetrieveActionResponse" : "resolutionRetrieveActionResponse",
+  "determinationInstanceRecord" : {
+    "caseDeterminationWorkTaskResult" : "caseDeterminationWorkTaskResult"
+  },
+  "resolutionRetrieveActionTaskRecord" : {},
+  "resolutionInstanceAnalysis" : {
+    "resolutionInstanceAnalysisReport" : {},
+    "resolutionInstanceAnalysisRecord" : {},
+    "resolutionInstanceAnalysisParameters" : "resolutionInstanceAnalysisParameters",
+    "resolutionInstanceAnalysisReportType" : "resolutionInstanceAnalysisReportType"
+  },
+  "resolutionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "795186",
+    "correspondenceInstanceReference" : "776072",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "741044",
+    "paymentOrderReference" : "704998"
+  },
+  "analysisInstanceRecord" : {
+    "caseAnalysisWorkTaskResult" : "caseAnalysisWorkTaskResult"
+  },
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "770752",
+    "employeeBusinessUnitReference" : "786313",
+    "customerCaseType" : "customerCaseType",
+    "customerContactRecordReference" : "732350",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+    "customerReference" : "778896",
+    "productTransactionReference" : "720363",
+    "caseLocation" : "caseLocation",
+    "productTransactionRecord" : {}
+  },
+  "resolutionRetrieveActionTaskReference" : "RRATR706979",
+  "resolutionInstanceReport" : {
+    "resolutionInstanceReportType" : "resolutionInstanceReportType",
+    "resolutionInstanceReportRecord" : {},
+    "resolutionInstanceReportParameters" : "resolutionInstanceReportParameters",
+    "resolutionInstanceReport" : {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "customerCaseProcedureInstanceAnalysis" : {
+    "customerCaseProcedureInstanceAnalysisReport" : {},
+    "customerCaseProcedureInstanceAnalysisReportType" : "customerCaseProcedureInstanceAnalysisReportType",
+    "customerCaseProcedureInstanceAnalysisData" : "customerCaseProcedureInstanceAnalysisData"
+  },
+  "customerCaseProcedureRetrieveActionTaskReference" : "CCPRATR758051",
+  "customerCaseProcedureRetrieveActionTaskRecord" : {},
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "768379",
+    "employeeBusinessUnitReference" : "720935",
+    "customerCaseType" : "customerCaseType",
+    "customerContactRecordReference" : "707167",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule",
+    "customerReference" : "707234",
+    "productTransactionReference" : "792347",
+    "caseLocation" : "caseLocation",
+    "productTransactionRecord" : {}
+  },
+  "customerCaseProcedureInstanceReportRecord" : {
+    "customerCaseProcedureInstanceReportData" : "customerCaseProcedureInstanceReportData",
+    "customerCaseProcedureInstanceReport" : {},
+    "customerCaseProcedureInstanceReportType" : "customerCaseProcedureInstanceReportType"
+  },
+  "customerCaseProcedureRetrieveActionResponse" : "customerCaseProcedureRetrieveActionResponse"
+}

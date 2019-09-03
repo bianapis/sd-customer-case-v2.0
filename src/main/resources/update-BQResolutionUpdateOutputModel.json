@@ -1,0 +1,13 @@
+{
+  "resolutionUpdateActionTaskReference" : "RUATR723552",
+  "resolutionUpdateActionTaskRecord" : {},
+  "resolutionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "737935",
+    "correspondenceInstanceReference" : "778528",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "799495",
+    "paymentOrderReference" : "768721"
+  },
+  "updateResponseRecord" : {}
+}

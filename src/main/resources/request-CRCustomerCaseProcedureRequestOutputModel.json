@@ -1,0 +1,10 @@
+{
+  "customerCaseProcedureRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR782261",
+  "customerCaseProcedureRequestActionTaskReference" : "CCPRATR712697",
+  "customerCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018",
+    "customerCaseResolutionSchedule" : "customerCaseResolutionSchedule"
+  },
+  "requestResponseRecord" : {}
+}
